@@ -13,7 +13,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             
-            Text("اختار الايموجي اللي يعبد عنك اليوم").font(.largeTitle).multilineTextAlignment(.center).padding()
+            Text("اختار الايموجي اللي يعبر عنك اليوم").font(.largeTitle).multilineTextAlignment(.center).padding()
             Text(W).font(.system(size: 90))
             
             
